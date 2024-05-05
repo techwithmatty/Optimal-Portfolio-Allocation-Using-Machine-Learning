@@ -1,10 +1,10 @@
 # Optimal Portfolio Allocation Using Machine Learning
 
-## SUMMARY 
+## Summary
 
 This project combines unsupervised and supervised Machine Learning techniques with Financial Theory and Statistics, to build a diversified stock portfolio using stocks from the S&P500 Index.
 
-## FILES 
+## Files
 
 Data:
 - S&P_500_End_of_Year_2020_Fundamental_FINAL.xlsx
@@ -15,12 +15,12 @@ Software/Deliverables:
 - Clustering Algorithms - EVALUATION.ipynb
 - main.py
 
-## SPEC
+## Specs
 
 Runs on macOS Big Sur (Version 11.1) and Windows 10 (or later)
 - Possible Backwards Compatibility
 
-## RUNNING REQUIREMENTS
+## Running Requirements
 
 This project requires you to have the following tools installed:
 - Python v3 (https://www.python.org/downloads/)
@@ -43,7 +43,7 @@ The following python libraries should be installed:
 
 You should be able to install most, if not all the above libraries using 'pip install (LIBRARY_NAME)'
 
-## INSTRUCTIONS FOR FILES:
+## Instructions for files
 
 Constructing a Diversified Stock Portfolio using Machine Learning Techniques - FULL VERSION.ipynb 
 - Contains the main investigation carried out in this priject
